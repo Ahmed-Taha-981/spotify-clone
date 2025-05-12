@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import { axiosInstance } from "../lib/axios";
+import { axiosInstance } from "@/lib/axios";
 import { useNavigate, useLocation } from "react-router-dom";
 import { usePlayerStore } from "@/stores/usePlayerStore";
 import { Song, Album } from "@/types";
