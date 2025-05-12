@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import { usePlayerStore } from "@/stores/usePLayerStore";
+import { usePlayerStore } from "@/stores/usePlayerStore";
 import { Song } from "@/types";
 import { Pause, Play } from "lucide-react";
 
